@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre]
+# ¡Hola! Soy Mario Arellano
 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás una colección de mis proyectos de Data Science y otros trabajos interesantes.
 
