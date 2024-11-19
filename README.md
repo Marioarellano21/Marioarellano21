@@ -44,7 +44,7 @@ Soy un apasionado de la ciencia de datos con experiencia en análisis de datos, 
 
 ## Contacto
 - **Email:** marioarellanom@gmail.com
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/mariojarellanom/)
-- **GitHub:** [Tu Perfil de GitHub
+- **LinkedIn:** [Perfil Linkedin](https://www.linkedin.com/in/mariojarellanom/)
+- **GitHub:** [Perfil Github
 ](https://github.com/Marioarellano21)
 ¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o si deseas colaborar en algún proyecto.
