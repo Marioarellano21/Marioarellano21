@@ -1,6 +1,6 @@
 # ¡Hola! Soy Mario Arellano
 
-Bienvenido a mi perfil de GitHub. Aquí encontrarás una colección de mis proyectos de Data Science y otros trabajos interesantes.
+Bienvenido a mi perfil de GitHub. Aquí encontrarás una colección de mis proyectos de Data Science, Data Analysis y otros trabajos interesantes.
 
 ## Proyectos Destacados
 ### 1. Robot Trading
