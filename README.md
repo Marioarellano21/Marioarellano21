@@ -9,27 +9,27 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás una colección de mis proye
 
 ### 2. Supermarket-Sales-Analysis
 - **Descripción:** Realizar un análisis sobre los datos de ventas de un Supermercado Online en Brasil, dando resultados precisos sobre el comportamiento   de ventas, ganancias, regiones donde se realizan, productos más vendidos y por ultimo los distintos segmentos de clientes que maneja con la finalidad de generar Insights que permitan tomar decisiones de manera óptima.
-- **Repositorio:** https://github.com/Marioarellano21/Supermarket-Sales-Analysis.git
+- **Repositorio:** [Supermarket](https://github.com/Marioarellano21/Supermarket-Sales-Analysis.git))
   
 ### 3. Credit Scoring Prediction
 - **Descripción:** El proyecto se enfoca en la implementación de modelos de machine learning de clasificación, con el objetivo de predecir con precisión el cumplimiento de los créditos otorgados a nuevos clientes. Esto permitirá reducir posibles riesgos crediticios al identificar a los clientes que probablemente cumplirán con sus obligaciones crediticias, mejorando de está manera la eficacia y eficiencia de la entidad financiera en la futura toma de decisiones.
-- **Repositorio:** [Enlace al proyecto](https://github.com/Marioarellano21/Credit_Scoring_Prediction)
+- **Repositorio:** [Credit Scoring](https://github.com/Marioarellano21/Credit_Scoring_Prediction)
 
 ### 4. COVID19_Analytics
 - **Descripción:** Este proyecto está centrado en el análisis del impacto ocasionado por el COVID19. Está enfocado en el país USA y busca observar cual fue el desarrollo que tuvo desde sus inicios.
-- **Repositorio:** [Enlace al proyecto](https://github.com/Marioarellano21/COVID19_Analytics)
+- **Repositorio:** [COVID19_Analytics](https://github.com/Marioarellano21/COVID19_Analytics)
 
 ### 5. Consumer_Spending_Prediction_Layout
 - **Descripción:** Este proyecto está centrado en predecir el gasto futuro de nuevos clientes en la página.
-- **Repositorio:** https://github.com/Marioarellano21/Consumer_Spending_Prediction_Layout
-- 
+- **Repositorio:** [Consumer_Spending_Prediction]( https://github.com/Marioarellano21/Consumer_Spending_Prediction_Layout)
+  
 ### 6. Store-sales-analysis
 - **Descripción:** Este es un proyecto que pretende analizar datos oficiales de un comercio de moda con el objetivo de impulsar las ganancias y el negocio.
-- **Repositorio:** https://github.com/Marioarellano21/store-sales-analysis
+- **Repositorio:** [Store_Sales_Analysis](https://github.com/Marioarellano21/store-sales-analysis)
 
 ### 7. Financial_Fraud_Detection
 - **Descripción:** Se busca crear un modelo capaz de detectar fraudes en una empresa Financiera.
-- **Repositorio:** https://github.com/Marioarellano21/Financial_Fraud_Detection
+- **Repositorio:** [Financial_Fraud_Detection](https://github.com/Marioarellano21/Financial_Fraud_Detection)
 
 
   
