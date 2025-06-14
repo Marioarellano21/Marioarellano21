@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás una colección de mis proye
 ## Proyectos Destacados
 ### 1. Robot Trading
 - **Descripción:** Es un robot que tiene como la finalidad ayudar en la toma de decisiones al realizar una inversión.
-- **Repositorio:** [https://github.com/Marioarellano21/Supermarket-Sales-Analysis](https://github.com/Marioarellano21/Robot-Trading)
+- **Repositorio:** [Robot Trading](https://github.com/Marioarellano21/Robot-Trading)
 
 ### 2. Supermarket-Sales-Analysis
 - **Descripción:** Realizar un análisis sobre los datos de ventas de un Supermercado Online en Brasil, dando resultados precisos sobre el comportamiento   de ventas, ganancias, regiones donde se realizan, productos más vendidos y por ultimo los distintos segmentos de clientes que maneja con la finalidad de generar Insights que permitan tomar decisiones de manera óptima.
