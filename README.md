@@ -1,50 +1,42 @@
-# ¡Hola! Soy Mario Arellano
+<div align="center">
 
-Bienvenido a mi perfil de GitHub. Aquí encontrarás una colección de mis proyectos de Data Science, Data Analysis y otros trabajos interesantes.
+# 👋 ¡Hola! Soy Mario Arellano
 
-## Proyectos Destacados
-### 1. Robot Trading
-- **Descripción:** Es un robot que tiene como la finalidad ayudar en la toma de decisiones al realizar una inversión.
-- **Repositorio:** [Robot Trading](https://github.com/Marioarellano21/Robot-Trading)
+**Ingeniero Industrial → Data Engineer & Data Scientist**  
+🇻🇪 Transición activa a tech | Python, SQL, ML | Construyendo pipelines y modelos predictivos
 
-### 2. Supermarket-Sales-Analysis
-- **Descripción:** Realizar un análisis sobre los datos de ventas de un Supermercado Online en Brasil, dando resultados precisos sobre el comportamiento   de ventas, ganancias, regiones donde se realizan, productos más vendidos y por ultimo los distintos segmentos de clientes que maneja con la finalidad de generar Insights que permitan tomar decisiones de manera óptima.
-- **Repositorio:** [Supermarket](https://github.com/Marioarellano21/Supermarket-Sales-Analysis.git))
-  
-### 3. Credit Scoring Prediction
-- **Descripción:** El proyecto se enfoca en la implementación de modelos de machine learning de clasificación, con el objetivo de predecir con precisión el cumplimiento de los créditos otorgados a nuevos clientes. Esto permitirá reducir posibles riesgos crediticios al identificar a los clientes que probablemente cumplirán con sus obligaciones crediticias, mejorando de está manera la eficacia y eficiencia de la entidad financiera en la futura toma de decisiones.
-- **Repositorio:** [Credit Scoring](https://github.com/Marioarellano21/Credit_Scoring_Prediction)
+[![GitHub followers](https://img.shields.io/github/followers/Marioarellano21?label=Followers&style=social)](https://github.com/Marioarellano21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mariojarellanom/)
 
-### 4. COVID19_Analytics
-- **Descripción:** Este proyecto está centrado en el análisis del impacto ocasionado por el COVID19. Está enfocado en el país USA y busca observar cual fue el desarrollo que tuvo desde sus inicios.
-- **Repositorio:** [COVID19_Analytics](https://github.com/Marioarellano21/COVID19_Analytics)
+¡Bienvenido! Explora mis proyectos de **Data Analysis**, **Machine Learning** y **Data Engineering** que resuelven problemas reales de negocio. [memory:3]
 
-### 5. Consumer_Spending_Prediction_Layout
-- **Descripción:** Este proyecto está centrado en predecir el gasto futuro de nuevos clientes en la página.
-- **Repositorio:** [Consumer_Spending_Prediction]( https://github.com/Marioarellano21/Consumer_Spending_Prediction_Layout)
-  
-### 6. Store-sales-analysis
-- **Descripción:** Este es un proyecto que pretende analizar datos oficiales de un comercio de moda con el objetivo de impulsar las ganancias y el negocio.
-- **Repositorio:** [Store_Sales_Analysis](https://github.com/Marioarellano21/store-sales-analysis)
+</div>
 
-### 7. Financial_Fraud_Detection
-- **Descripción:** Se busca crear un modelo capaz de detectar fraudes en una empresa Financiera.
-- **Repositorio:** [Financial_Fraud_Detection](https://github.com/Marioarellano21/Financial_Fraud_Detection)
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tech Stack | Link |
+|----------|-------------|------------|------|
+| **🤖 Robot Trading** | Robot para decisiones de inversión automatizadas | Python, ML | [Repo](https://github.com/Marioarellano21/Robot-Trading) |
+| **🛒 Supermarket Sales Analysis** | Análisis de ventas, ganancias y segmentos de clientes en retail brasileño para insights accionables | Power BI, Python | [Repo](https://github.com/Marioarellano21/Supermarket-Sales-Analysis) [memory:3] |
+| **💳 Credit Scoring Prediction** | Modelos ML de clasificación para predecir cumplimiento crediticio y reducir riesgos | Scikit-learn, Python | [Repo](https://github.com/Marioarellano21/Credit_Scoring_Prediction) |
+| **🦠 COVID19 Analytics** | Análisis del impacto del COVID-19 en USA desde sus inicios | Python, Visualizaciones | [Repo](https://github.com/Marioarellano21/COVID19_Analytics) |
+| **💸 Consumer Spending Prediction** | Predicción de gasto futuro de clientes en e-commerce | ML Predictivo | [Repo](https://github.com/Marioarellano21/Consumer_Spending_Prediction_Layout) |
+| **👗 Store Sales Analysis** | Análisis de datos de moda para impulsar ganancias | Python, SQL | [Repo](https://github.com/Marioarellano21/store-sales-analysis) |
+| **🛡️ Financial Fraud Detection** | Modelo para detectar fraudes en transacciones financieras | ML Clasificación | [Repo](https://github.com/Marioarellano21/Financial_Fraud_Detection) |
+| **💬 AI Assistant (Ayudín)** | Chatbot RAG con LangChain para consultas comerciales en retail (stock, productos) desde PDFs | LangChain, Streamlit, OpenAI | [Repo](https://github.com/Marioarellano21/AI_Assistant) [memory:2] |
+
+**Más proyectos:** ML Autonomous Driving, Brain Tumor Detection, Tweet Classification, Telecom Churn, Store Sales Interactive, Movie Analysis [memory:1].
+
+## 🛠️ Habilidades
 
 
-  
-## Sobre Mí
-Soy un apasionado de la ciencia de datos con experiencia en análisis de datos, machine learning y visualización de datos. Me encanta resolver problemas complejos y transformar datos en información valiosa y util.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org) [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com)
 
-## Habilidades
-- **Lenguajes de Programación:** Python, SQL.
-- **Bibliotecas y Frameworks:** Pandas, NumPy, Scikit-learn.
-- **Herramientas de Visualización:** Matplotlib, Seaborn, PowerBI.
-- **Otros:** Git, Jupyter Notebook
+## 📈 Sobre Mí
+Apasionado por transformar datos en decisiones de negocio. Experiencia en IT support → Data Engineering. Enfocado en pipelines ETL, ML predictivo y visualizaciones ejecutivas. Buscando roles junior en Data Engineering/Data Science. [memory:8]
 
-## Contacto
-- **Email:** marioarellanom@gmail.com
-- **LinkedIn:** [Perfil Linkedin](https://www.linkedin.com/in/mariojarellanom/)
-- **GitHub:** [Perfil Github
-](https://github.com/Marioarellano21)
-¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o si deseas colaborar en algún proyecto.
+## 📬 Conecta
+[![Email](https://img.shields.io/badge/Email-marioarellanom@gmail.com-blue)](mailto:marioarellanom@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariojarellanom/) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/Marioarellano21)
+
+¡Gracias por visitar! ⭐ Si te gusta algún proyecto, déjame un star o contacta para colaborar.
+
+
