@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Mario Arellano
 
-**Ingeniero Industrial → Data Engineer | Data Analyst | Data Scientist **  
+**Ingeniero Industrial → Data Engineer | Data Analyst | Data Scientist**
 🇻🇪 Python | SQL | ML | Pipelines ETL | Dashboards ejecutivos
 
 [![GitHub followers](https://img.shields.io/github/followers/Marioarellano21?label=Followers&style=social)](https://github.com/Marioarellano21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mariojarellanom/)
